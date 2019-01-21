@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "klasa": "github:dirigeants/klasa#master",
+    "discord.js": "github:discordjs/discord.js#master",
     "klasa-dashboard-hooks": "github:dirigeants/klasa-dashboard-hooks#master"
   },
   "devDependencies": {
